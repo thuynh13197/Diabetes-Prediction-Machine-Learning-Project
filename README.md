@@ -7,3 +7,4 @@ In this project, I developed a machine learning model using a Kaggle dataset to 
 
 
 ## Dashboard 
+![Diabetes Project Pic 1](https://github.com/user-attachments/assets/3386ff29-819e-4efd-b043-91975f904e15)
