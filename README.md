@@ -2,7 +2,7 @@
 ## The Data Set That I Will Be Working On Is From Kaggle:
 [Predict Diabetes: By Aman Chauhan](https://www.kaggle.com/datasets/whenamancodes/predict-diabities/data)
 # Diabetes-Prediction-Machine-Learning-Project
-Develop a machine learning model using a Kaggle dataset to predict the likelihood of diabetes based on categorical factors. The project involves data exploration, preprocessing, and visualization to achieve an 80% prediction accuracy.
+Developed a machine learning model using a Kaggle dataset to predict the likelihood of diabetes based on categorical factors. The project involves data exploration, preprocessing, and visualization to achieve an ~81% prediction accuracy based on determining whether or not a patient will have diabetes or not. 
 
 
 ## Dashboard 
